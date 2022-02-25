@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Yoshi",
+        "belt": "Green",
+        "rate": 50,
+        "available": true,
+        "thumb": "content/images/ninja1.png"
+    },
+    {
+        "name": "Amanda",
+        "belt": "Blue",
+        "rate": 20,
+        "available": true,
+        "thumb": "content/images/ninja1.png"
+    },
+    {
+        "name": "Diego",
+        "belt": "Orange",
+        "rate": 235.2,
+        "available": true,
+        "thumb": "content/images/ninja2.png"
+    },
+    {
+        "name": "Randal",
+        "belt": "Brown",
+        "rate": 12,
+        "available": false,
+        "thumb": "content/images/ninja1.png"
+    },
+    {
+        "name": "Carmen",
+        "belt": "Black",
+        "rate": 1000,
+        "available": true,
+        "thumb": "content/images/ninja3.png"
+    }
+]
